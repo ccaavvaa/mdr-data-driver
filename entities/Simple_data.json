@@ -1,0 +1,14 @@
+{
+  "value": [
+    {
+      "oid": "AZERT01",
+      "A": "CHAMP A object 1",
+      "B": "CHAMP B object 1"
+    },
+    {
+      "oid": "AZERT02",
+      "A": "PSLA object 2",
+      "B": "OP0001 object 2"
+    }
+  ]
+}

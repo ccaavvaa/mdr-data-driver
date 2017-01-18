@@ -1,0 +1,19 @@
+{
+	"type": "object",
+	"$schema": "http://phenix.salviadeveloppement.com/json-schema/mdr-schema.json",
+	"name": "Simple",
+	"title": "Very simple entities",
+	"description": "test Very simple entities",
+    "primaryKey": "oid,A",
+	"properties": {
+		"oid": {
+			"type": "string", "format": "code"
+		},
+		"A": {
+			"type": "string", "title": "Champ A"
+		},
+		"B": {
+			"type": "string", "title": "Champ B"
+		}
+	}
+}
