@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ccaavvaa/boc-interfaces.git"
+    "url": "https://github.com/ccaavvaa/mdr-data-driver.git"
   },
   "types": "./lib/index.d.ts"
 }
