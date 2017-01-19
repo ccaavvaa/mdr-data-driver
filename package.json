@@ -26,5 +26,8 @@
     "type": "git",
     "url": "https://github.com/ccaavvaa/mdr-data-driver.git"
   },
-  "types": "./lib/index.d.ts"
+  "types": "./lib/index.d.ts",
+  "dependencies": {
+    "node-rest-client": "^2.0.1"
+  }
 }
